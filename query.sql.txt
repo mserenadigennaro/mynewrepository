@@ -1,1 +1,2 @@
 select * from Person
+select * from Nation
